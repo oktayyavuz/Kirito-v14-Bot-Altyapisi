@@ -1,0 +1,27 @@
+{
+  "name": "discordjs-14",
+  "version": "5.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": [],
+  "author": "Oktay Yavuz",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.0.1",
+    "discord.js": "^14.0.1",
+    "express": "^4.18.1",
+    "figlet": "^1.5.2",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
